@@ -1,0 +1,73 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Isaac Harris | Business & Theology</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background:#f9f9f9; color:#222; }
+    header { background:#0f172a; color:white; padding:60px 20px; text-align:center; }
+    section { max-width:900px; margin:40px auto; padding:0 20px; }
+    h2 { border-bottom:2px solid #e5e7eb; padding-bottom:8px; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap:20px; }
+    .card { background:white; padding:20px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,.05); }
+    footer { text-align:center; padding:30px; font-size:14px; color:#555; }
+    a { color:#2563eb; text-decoration:none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Isaac Harris</h1>
+  <p>Business & Theology Student • Content Creator • Student-Athlete</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am an aspiring professional and incoming Business & Theology student at Southern Nazarene University, where I also compete as a collegiate baseball athlete. I bring a strong work ethic developed through athletics, entrepreneurship, and hands-on digital content creation.
+  </p>
+</section>
+
+<section>
+  <h2>Experience</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Content Creator – YouTube</h3>
+      <p>Built and managed a YouTube channel with over 15,000 subscribers by producing consistent, engaging video content and analyzing performance metrics.</p>
+    </div>
+    <div class="card">
+      <h3>Entrepreneur – Lawn Care</h3>
+      <p>Operated a local lawn care service, managing client relationships, scheduling, pricing, and service delivery.</p>
+    </div>
+    <div class="card">
+      <h3>Student-Athlete – Baseball</h3>
+      <p>Compete at the collegiate level while balancing academic and personal development responsibilities.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>Digital Marketing & Content Strategy</li>
+    <li>Social Media Growth</li>
+    <li>Brand Development</li>
+    <li>Time Management & Leadership</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:isaac0harris@gmail.com">isaac0harris@gmail.com</a></p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/isaacmharris/" target="_blank">linkedin.com/in/isaacmharris</a></p>
+</section>
+
+<footer>
+  © 2026 Isaac Harris
+</footer>
+
+</body>
+</html>
+
